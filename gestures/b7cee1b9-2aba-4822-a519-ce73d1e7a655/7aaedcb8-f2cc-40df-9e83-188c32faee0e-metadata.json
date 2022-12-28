@@ -1,0 +1,10 @@
+{
+    "layers": [
+        {
+            "name": "v2.x up"
+        },
+        {
+            "name": "v3.0 only"
+        }
+    ]
+}
